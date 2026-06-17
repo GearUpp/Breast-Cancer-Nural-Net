@@ -1,0 +1,12 @@
+TODO:
+
+Investigate if data Class for if row data means cancer or not is being converted correctly
+
+
+
+
+Issues:
+
+Dont think the Class is being converted correctly by the data clean / formating function
+
+Remove training graph 
